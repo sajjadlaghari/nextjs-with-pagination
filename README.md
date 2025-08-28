@@ -5,6 +5,8 @@
 
 ```bash
 npm install
+or
+yarn
 # and
 npm run dev
 # or
