@@ -5,7 +5,7 @@
 
 ```bash
 npm install
-or
+# or
 yarn
 # and
 npm run dev
